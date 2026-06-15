@@ -19,15 +19,16 @@
 # https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/DouYin/DouYin.list
 # 治理配置：Scripts/rule_governance.yaml::CNMedia
 # 处理模式：merge
-# 更新时间：2026-06-15 22:57:41
+# 更新时间：2026-06-16 02:29:48
 # 原始规则数：1075条
-# 去重后规则数：1076条
-# 输出规则数：1076条
+# 去重后规则数：1077条
+# 输出规则数：1077条
 # 重复规则数：12条
 # 丢弃规则数：0条
 # 遮蔽规则数：0条
 # 作者：Reid_Vin_Action
 
+DOMAIN,www.douyin.com
 DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,amemv.com

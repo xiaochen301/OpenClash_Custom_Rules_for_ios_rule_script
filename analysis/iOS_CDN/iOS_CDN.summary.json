@@ -108,7 +108,7 @@
   "low_memory": false,
   "governance_file": "Scripts/rule_governance.yaml",
   "routed_prepend_rules": 0,
-  "routed_drop_rules": 15,
+  "routed_drop_rules": 19,
   "explicit_prepend_rules": 2,
   "explicit_append_rules": 0,
   "explicit_drop_rules": 0
