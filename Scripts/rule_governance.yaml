@@ -1,6 +1,7 @@
 ROUTES:
   - TO: CNMedia
     RULES:
+      - DOMAIN,www.douyin.com
       - DOMAIN-SUFFIX,snssdk.com
       - DOMAIN-SUFFIX,pstatp.com
       - DOMAIN-SUFFIX,amemv.com
@@ -11,6 +12,9 @@ ROUTES:
       - DOMAIN-SUFFIX,idouyinvod.com
   - TO: China-Domain
     RULES:
+      - DOMAIN-SUFFIX,erp198.com
+      - DOMAIN-SUFFIX,cangpeng.com
+      - DOMAIN-SUFFIX,allday.work
       - DOMAIN-SUFFIX,bytedance.com
       - DOMAIN-SUFFIX,bytedance.net
       - DOMAIN-SUFFIX,bytedanceapi.com
