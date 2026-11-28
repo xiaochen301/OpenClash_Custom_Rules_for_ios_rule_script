@@ -10,14 +10,14 @@
     },
     {
       "source": "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyGFWlist.list",
-      "rules": 7378,
+      "rules": 7381,
       "ok": true
     }
   ],
-  "raw_rules": 11795,
+  "raw_rules": 11798,
   "deduped_rules": 7539,
   "output_rules": 7539,
-  "duplicates": 4256,
+  "duplicates": 4259,
   "dropped": 0,
   "shadowed": 330,
   "low_memory": false,
